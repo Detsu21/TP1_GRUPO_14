@@ -2,9 +2,9 @@
 
 • Integrante 1 – Bottelli, Tomas (DetsuDev)
 
-• Integrante 2 – Castro, Juan Ignacio ()
+• Integrante 2 – Castro, Juan Ignacio (JuanyCastro)
 
-• Integrante 3 – Castro, Juan Sebastián ()
+• Integrante 3 – Castro, Juan Sebastián (Sebacastro14)
 
 • Integrante 4 – Echegaray, Aldana Morena (0brightmoon5)
 
