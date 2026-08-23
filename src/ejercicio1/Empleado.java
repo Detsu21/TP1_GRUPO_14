@@ -31,6 +31,10 @@ public class Empleado extends Persona {
 		return puesto;
 	}
 
+	public int devuelveProximoLegajo() {
+		return this.legajo+1;
+	}
+	
 	@Override
 	public String toString() {
 		return "Empleado [legajo=" + legajo + ", puesto=" + puesto + "]";
