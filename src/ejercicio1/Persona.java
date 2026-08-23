@@ -84,4 +84,8 @@ public class Persona {
 			this.email = email;
 		}
 	 
+	@Override
+	public String toString() {
+		return "Persona [DNI=" + dni + ", Nombre=" + nombre + ", Apellido=" + apellido + ", Fecha de nacimiento=" + fechaNacimiento + ", Genero=" + genero + ", Dirección=" + direccion + ", Teléfono=" + telefono + ", Email= " + email + "]";
+	}
 }
