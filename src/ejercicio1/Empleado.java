@@ -37,7 +37,7 @@ public class Empleado extends Persona {
 	
 	@Override
 	public String toString() {
-		return "Empleado [legajo=" + legajo + ", puesto=" + puesto + "]";
+		return "Empleado [legajo=" + legajo + ", puesto=" + puesto + "] " + super.toString();
 	}
 	
 }
