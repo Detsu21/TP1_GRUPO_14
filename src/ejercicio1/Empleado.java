@@ -7,7 +7,7 @@ public class Empleado extends Persona {
 	private final int legajo; 
 	private String puesto;
 	private static int contadorLegajo = 1000;
-	
+
 	// Constructor vacio
 	public Empleado() {
 		super();
@@ -31,8 +31,8 @@ public class Empleado extends Persona {
 		return puesto;
 	}
 
-	public int devuelveProximoLegajo() {
-		return this.legajo+1;
+	public static int devuelveProximoLegajo() {
+		return contadorLegajo;
 	}
 	
 	@Override
