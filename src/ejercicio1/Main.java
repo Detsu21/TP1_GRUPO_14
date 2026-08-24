@@ -21,6 +21,8 @@ public class Main {
 		System.out.println(emp3.toString());
 		System.out.println("El próximo legajo será el: " + emp3.devuelveProximoLegajo());
 		
+		//Empleados creados con el constructor con parámetrosD
+		
 		Empleado emp4 = new Empleado("45896321","Lucía","Fernández",LocalDate.of(1995,3,14),"Femenino","Av. Siempre Viva 742","1132456789","lucia.fernandez@mail.com","Desarrolladora Backend");
 		System.out.println(emp4.toString());
 		System.out.println("El próximo legajo será el: " + emp4.devuelveProximoLegajo());
