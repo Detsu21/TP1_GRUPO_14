@@ -13,10 +13,13 @@ public class Main {
 
 		Empleado emp2 = new Empleado();
 		System.out.println(emp2.toString());
-		
-		
+
+		System.out.println("El próximo legajo será el: " + emp2.devuelveProximoLegajo());
 		System.out.println(guy1.toString());
-				
+
+		Empleado emp3 = new Empleado();
+		System.out.println(emp3.toString());
+		System.out.println("El próximo legajo será el: " + emp3.devuelveProximoLegajo());
 	}
 
 }
